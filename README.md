@@ -6,7 +6,6 @@ This is Kawehi, I love diving into data and crafting insights that drive busines
 
 Skills: PYTHON / R / SQL / TABLEAU / EXCEL
 
-- 🔭 I’m currently working on this page. 
 
 
 
