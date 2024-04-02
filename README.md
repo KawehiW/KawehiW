@@ -1,7 +1,6 @@
 ### Hiiii there 👋, Kawehi W ✨
 #### Turning Data into Actionable Insights
-![Turning Data into Actionable Insights]([https://images.app.goo.gl/BXbogZoDABaJNG7X9](https://i.pinimg.com/originals/fa/05/75/fa057582f44b477206a32e255bb8ca18.gif))
-
+![Turning Data into Actionable Insights](https://repository-images.githubusercontent.com/332577595/4b2b2100-a3c3-11eb-841f-057d4a44beb4)
 This is Kawehi, I love diving into data and crafting insights that drive business strategy. From machine learning to data visualization, I'm all about turning numbers into actionable ideas. Check out my projects – they're as fun as they are informative! Check out my GitHub for projects exploring the intersection of data science and business analytics!
 
 Skills: PYTHON / R / SQL / TABLEAU / EXCEL
