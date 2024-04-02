@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hiiii there 👋
+
+I'm Kawehi, a Master of Science in Business Analytics candidate at UC Davis, specializing in leveraging advanced analytics and big data techniques to drive strategic business decisions. With a passion for machine learning, data visualization, and implementing analytics in organizations, I bring hands-on expertise in Python, R, SQL, Tableau, and more. My academic background, coupled with practical experience as a Data Analyst/Project Manager at the Mondavi Center and internships in investment management and data analysis, equips me to tackle complex challenges and deliver impactful solutions. Check out my GitHub for projects exploring the intersection of data science and business analytics! 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawehiw)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KawehiW/KawehiW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
