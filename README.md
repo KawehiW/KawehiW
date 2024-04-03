@@ -2,7 +2,7 @@
 #### Turning Data into Actionable Insights
 ![Turning Data into Actionable Insights](https://cdn.pfps.gg/banners/1181-playful-sleeping-cats.gif)
 
-I love diving into data and crafting insights that drive business strategy. From machine learning to data visualization, I'm all about turning numbers into actionable ideas. Check out my projects – they're as fun as they are informative! Check out my GitHub for projects exploring the intersection of data science and business analytics!
+I love diving into data and crafting insights that drive business strategy. From machine learning to data visualization, I'm all about turning numbers into actionable ideas. Check out my GitHub for projects exploring the intersection of data science and business analytics!
 
 Skills: PYTHON / R / SQL / TABLEAU / EXCEL
 
